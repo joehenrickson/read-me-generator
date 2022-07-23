@@ -22,8 +22,6 @@ ${answers.usage}
 ${answers.contributing}
 ## Tests
 ${answers.tests}
-## Questions
-${answers.questions}<br />
 <br />
 Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
 <br />
