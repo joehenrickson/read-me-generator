@@ -1,9 +1,8 @@
 
 <h1 align="center">README GENERATOR</h1>
 
-ISC<br />
 ## Description
-Writing a quality README file through prompts to get each README.md file to look great and maintain consistancy throughout each project.  
+A quick and easy way to develop quality README.md files while maintaining consistency throughout each project.  Each user will be able to input their information and conform their README.md files by simply answering the questions as they are prompted.  
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,22 +12,17 @@ Writing a quality README file through prompts to get each README.md file to look
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-This project was installed using Node.js, Inquirer, as well as Javascript.
+This application was developed using Node.js, Inquirer as well as Javascript
 ## Usage
-This is to help users maintain consistency through each project and maintain the basics of a Readme.md file for each project.
-## License
-![badge](https://img.shields.io/badge/license-ISC-brightgreen)
-<br />
-This application is covered by the ISC license. 
+Generating a README.md file
+
 ## Contributing
 Joe Henrickson
 ## Tests
 No
-## Questions
-email joehenrickson@gmail.com<br />
 <br />
 Find me on GitHub: [joehenrickson](https://github.com/joehenrickson)<br />
 <br />
 Email me with any questions: joehenrickson@gmail.com<br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com/joehenrickson/read-me-generator)
+This README was generated with ❤️ by [README-generator](https://github.com/joehenrickson/read-me-generator)
   
