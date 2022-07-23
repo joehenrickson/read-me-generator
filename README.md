@@ -1,9 +1,9 @@
 
-<h1 align="center">README GENERATOR 👋</h1>
+<h1 align="center">README GENERATOR</h1>
 
-![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
+ISC<br />
 ## Description
-🔍 A quick and consistant way to generate a quality README.md file.
+Writing a quality README file through prompts to get each README.md file to look great and maintain consistancy throughout each project.  
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,22 +13,22 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-💾 None
+This project was installed using Node.js, Inquirer, as well as Javascript.
 ## Usage
-💻 Generating a README.md file
+This is to help users maintain consistency through each project and maintain the basics of a Readme.md file for each project.
 ## License
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
 <br />
 This application is covered by the ISC license. 
 ## Contributing
-👪 Joe Henrickson
+Joe Henrickson
 ## Tests
-✏️ No
+No
 ## Questions
-✋ email joehenrickson@gmail.com<br />
+email joehenrickson@gmail.com<br />
 <br />
-:octocat: Find me on GitHub: [joehenrickson](https://github.com/joehenrickson)<br />
+Find me on GitHub: [joehenrickson](https://github.com/joehenrickson)<br />
 <br />
-✉️ Email me with any questions: joehenrickson@gmail.com<br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
+Email me with any questions: joehenrickson@gmail.com<br /><br />
+_This README was generated with ❤️ by [README-generator](https://github.com/joehenrickson/read-me-generator)
   
